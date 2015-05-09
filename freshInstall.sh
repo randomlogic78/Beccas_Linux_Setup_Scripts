@@ -30,7 +30,7 @@ texlive-science-doc tth-common openconnect vpnc chromium-browser \
 chromium-browser-l10n chromium-codecs-ffmpeg-extra texlive-publishers \
 libcurl3 libsdl-ttf2.0-0 virtualbox-4.3 virtualbox-nonfree python-pip \
 python-wheel gist ruby-json texlive-publishers-doc zsh luckybackup \
-exfat-fuse exfat-utils curl
+exfat-fuse exfat-utils curl xclip
 
 #Install the 3.17 Kernel. Only necessary until the 3.17 kernel is in the kernel list on mint
 #To delete kernel -- sudo apt-get remove 'linux-headers-3.17.6*' 'linux-image-3.17.6*'
